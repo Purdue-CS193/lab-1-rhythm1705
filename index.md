@@ -1,3 +1,10 @@
+# Rhythm's first CS193 lab
+
+## Favorite things about Purdue CS193
+- Makes me familiar with the tools of programming
+- It's very helpful and the instructors are very supportive
+- I love it
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
